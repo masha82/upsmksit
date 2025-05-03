@@ -46,7 +46,7 @@
                         <label class="col-form-label col-md-3 col-sm-3 label-align" for="last-name">Nomor Peserta/Ujian<span class="required">*</span>
                         </label>
                         <div class="col-md-6 col-sm-6 ">
-                            <input type="text" name="no_ujian" id="no_ujian" required="required" class="form-control">
+                            <input type="text" name="no_peserta" id="no_peserta" required="required" class="form-control">
                         </div>
                     </div>
                     <div class="item form-group">

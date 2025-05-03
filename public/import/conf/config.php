@@ -4,7 +4,7 @@
  */
  
 $databaseHost = 'localhost';
-$databaseName = 'smk';
+$databaseName = 'zmkn';
 $databaseUsername = 'root';
 $databasePassword = '';
  

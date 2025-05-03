@@ -43,7 +43,7 @@
                     <th>Kelas</th>
                     <th>Kompetensi Keahlian</th>
                     <th>Status Kelulusan</th>
-                    <th>Aksi</th>
+                    {{-- <th>Aksi</th> --}}
                   </tr>
                 </thead>
             </table>
@@ -100,12 +100,13 @@
                 }, {
                     data: 'status',
                     name: 'status'
-                }, {
-                    data: 'action',
-                    name: 'action',
-                    orderable: false,
-                    searchable: false
-                    },
+                }
+                    // }, {
+                //     data: 'action',
+                //     name: 'action',
+                //     orderable: false,
+                //     searchable: false
+                //     },
                 ]
             });
             var del = function (id) {

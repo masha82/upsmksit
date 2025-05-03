@@ -147,7 +147,7 @@
         <div class="sec-title centered">
             <h2 class="sec-title_heading">PENGUMUMAN KELULUSAN</h2><br>
             <div class="sec-title_title"><h3>SMKN 1 Situbondo</h3></div><br>
-            <div class="sec-title_title"><h3>Tahun Pelajaran 2023/2024 </h3></div>
+            <div class="sec-title_title"><h3>Tahun Pelajaran 2024/2025 </h3></div>
         </div>
     <form action="{{ route('graduate.search') }}" method="post" enctype="multipart/form-data">
 	@csrf
